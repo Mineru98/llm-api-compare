@@ -1,0 +1,293 @@
+### 기획 내용
+
+```
+# Netflix 클론 코딩용 간소화된 서비스 기획서
+
+## 1. 서비스 개요
+- **서비스명**: MiniFlix
+- **서비스 유형**: 웹 기반 스트리밍 서비스 (모바일 앱은 선택적 확장 가능)
+- **목적**: 학습 목적으로 넷플릭스의 핵심 기능을 간소화하여 영화/영상 스트리밍 서비스를 구현.
+- **타겟 사용자**: 간단한 스트리밍 서비스를 이용하려는 일반 사용자 (학습용 프로젝트이므로 제한 없음).
+
+## 2. 핵심 기능 (최소 요구사항)
+### 2.1 콘텐츠 스트리밍
+- 사용자가 제공된 영상 콘텐츠(영화, 드라마 클립 등)를 웹에서 스트리밍으로 시청 가능.
+- 샘플 영상 파일(무료/오픈소스 영상)을 서버에 업로드하여 제공.
+- 기본적인 비디오 플레이어 기능(재생, 일시정지, 볼륨 조절, 전체 화면).
+
+### 2.2 콘텐츠 탐색
+- 홈 화면에 모든 콘텐츠 목록 표시(그리드 형태의 썸네일).
+- 간단한 검색 기능: 제목으로 콘텐츠 검색.
+- 장르별 필터링(예: 액션, 드라마, 코미디 등).
+
+### 2.3 사용자 계정
+- 기본적인 회원가입/로그인 기능(이메일, 비밀번호 기반).
+- 로그인한 사용자는 콘텐츠 시청 및 찜 목록 관리 가능.
+- 비로그인 사용자는 콘텐츠 목록만 볼 수 있음(시청 불가).
+
+### 2.4 찜 목록
+- 사용자가 관심 있는 콘텐츠를 "찜" 버튼으로 저장.
+- 마이페이지에서 찜한 콘텐츠 목록 확인 가능.
+
+### 2.5 반응형 디자인
+- PC와 모바일 브라우저에서 모두 사용 가능한 반응형 웹 UI.
+- 넷플릭스 스타일의 심플하고 직관적인 인터페이스(검정 바탕, 썸네일 중심).
+
+## 3. 제외된 기능 (복잡도 감소 목적)
+- 개인화 추천 시스템: 구현 난이도와 데이터 요구량이 높아 제외.
+- 멀티 프로필: 단일 사용자 계정만 지원.
+- 오프라인 다운로드: 서버 부하 및 구현 복잡도로 제외.
+- 다중 디바이스 동시 스트리밍: 단일 디바이스 시청만 지원.
+- 고화질(HD/4K) 및 다국어 자막: 기본 화질과 자막 없이 진행.
+- 구독제 결제 시스템: 학습용이므로 무료 서비스로 가정.
+
+## 4. 사용자 경험 (UX)
+- **인터페이스**: 깔끔한 UI로 콘텐츠 탐색 및 시청에 집중.
+  - 홈: 콘텐츠 썸네일 그리드, 상단 검색바.
+  - 재생 페이지: 비디오 플레이어와 간단한 콘텐츠 정보(제목, 설명).
+  - 마이페이지: 찜 목록과 기본 계정 정보.
+- **편의성**: 빠른 페이지 로딩, 직관적인 내비게이션.
+- **접근성**: 기본적인 반응형 디자인으로 모바일/PC 지원.
+
+## 5. 비즈니스 모델 (가정)
+- 학습용 프로젝트로, 실제 결제/구독 없이 무료 서비스로 운영.
+- 서버에 업로드된 샘플 콘텐츠(오픈소스 영상)로만 동작.
+
+## 6. 사용자 여정
+1. **가입/로그인**: 웹사이트에서 회원가입 또는 로그인.
+2. **탐색**: 홈 화면에서 콘텐츠 목록 확인, 검색/필터링으로 원하는 콘텐츠 찾기.
+3. **시청**: 콘텐츠 클릭 후 비디오 플레이어로 스트리밍 시청.
+4. **관리**: 찜 버튼으로 콘텐츠 저장, 마이페이지에서 찜 목록 확인.
+
+## 7. 구현 가능성
+- **콘텐츠**: 무료/오픈소스 영상 파일(예: Pixabay, Pexels 비디오) 사용.
+- **프론트엔드**: HTML, CSS, JavaScript(React/Vue 등 선택 가능)로 반응형 웹 구현.
+- **백엔드**: Node.js, Django, Flask 등으로 간단한 서버 구축(영상 파일 호스팅, 사용자 데이터 관리).
+- **데이터베이스**: MySQL, MongoDB 등으로 사용자 정보 및 찜 목록 저장.
+- **영상 스트리밍**: 기본 HTTP 스트리밍(고급 스트리밍 프로토콜은 제외).
+
+## 8. 기대 효과
+- **학습 성과**: 웹 서비스 개발의 전반적인 흐름(프론트엔드, 백엔드, DB, 미디어 호스팅) 이해.
+- **사용자**: 간단한 스트리밍 서비스를 통해 넷플릭스 핵심 UX 체험.
+- **확장 가능성**: 프로젝트 완성 후 추천 시스템, 구독 기능 등을 추가로 학습 가능.
+```
+
+### 문서 목록
+
+#### 1번 모델
+
+```mermaid
+flowchart LR
+
+    A["로그인/회원가입"]:::screen 
+    B["회원가입"]:::screen 
+    C["홈 화면"]:::screen 
+    D["검색 결과 화면"]:::screen 
+    E["상세 재생 페이지"]:::screen 
+    F["마이페이지"]:::screen
+
+    A -- "회원가입 링크" --> B
+    B -- "가입 완료" --> A
+    A -- "로그인 성공" --> C
+    C -- "검색/장르 필터" --> D
+    C -- "콘텐츠 선택" --> E
+    C -- "마이페이지 진입" --> F
+    E -- "재생/일시정지/볼륨 조절 등" --> E
+    E -- "찜하기" --> F
+    F -- "찜 목록 확인" --> F
+    F -- "홈으로 돌아가기" --> C
+    F -- "로그아웃" --> A
+
+    classDef screen fill:#f9f9f9,stroke:#666,stroke-width:1.5px,color:#000,border-radius:6px,padding:10px
+    class A,B,C,D,E,F screen
+
+```
+
+#### 2번 모델
+
+```mermaid
+graph TD
+    %% === 스타일 정의 ===
+    classDef unauthStyle fill:#ececec,stroke:#999,stroke-width:1px,color:#333
+    classDef authStyle fill:#fff0b3,stroke:#ffc107,stroke-width:1px,color:#333
+    classDef coreStyle fill:#e3f2fd,stroke:#2196f3,stroke-width:1px,color:#333
+    classDef playerStyle fill:#ffebee,stroke:#f44336,stroke-width:1px,color:#333
+    classDef myPageStyle fill:#e8f5e9,stroke:#4caf50,stroke-width:1px,color:#333
+
+    %% === 노드 정의 (화면) ===
+    A["시작<br>(웹사이트 접속"]:::unauthStyle
+    B["홈 화면 (로그인 전)<br>콘텐츠 목록 표시<br>(시청 불가)"]:::unauthStyle
+    C["로그인 페이지<br>이메일/비밀번호 입력"]:::authStyle
+    D["회원가입 페이지<br>정보 입력"]:::authStyle
+    E["홈 화면 (로그인 후)<br>콘텐츠 목록 표시<br>검색/필터링<br>찜하기 가능"]:::coreStyle
+    F["콘텐츠 재생 페이지<br>영상 스트리밍<br>플레이어 컨트롤<br>찜하기/해제"]:::playerStyle
+    G["마이페이지<br>찜 목록 확인<br>기본 계정 정보"]:::myPageStyle
+    H["검색 결과 페이지<br>검색된 콘텐츠 목록"]:::coreStyle
+
+    %% === 화면 전환 흐름 ===
+    A --> B
+
+    %% 로그인 전 사용자 흐름
+    B -- "콘텐츠 목록 확인" --> B
+    B -- "로그인 버튼 클릭" --> C
+    B -- "회원가입 버튼 클릭" --> D
+    B -- "검색 실행" --> H
+
+    %% 인증 흐름
+    C -- "로그인 성공" --> E
+    C -- "회원가입 링크 클릭" --> D
+    D -- "회원가입 성공" --> C
+    D -- "로그인 링크 클릭" --> C
+
+    %% 로그인 후 사용자 흐름
+    E -- "콘텐츠 썸네일 클릭" --> F
+    E -- "콘텐츠 검색" --> H
+    E -- "장르 필터링" --> E
+    E -- "찜 버튼 클릭 (콘텐츠)" --> E
+    E -- "마이페이지 아이콘 클릭" --> G
+    E -- "로그아웃" --> B
+
+    H -- "콘텐츠 썸네일 클릭" --> F
+    H -- "뒤로가기 / 홈 로고 클릭" --> E
+    H -- "로그아웃" --> B
+
+    F -- "찜 버튼 클릭/해제" --> F
+    F -- "뒤로가기 / 홈 로고 클릭" --> E
+    F -- "마이페이지 아이콘 클릭" --> G
+    F -- "로그아웃" --> B
+
+    G -- "찜한 콘텐츠 클릭" --> F
+    G -- "홈 로고 / 메뉴 클릭" --> E
+    G -- "로그아웃" --> B
+```
+
+#### 3번 모델
+
+```mermaid
+flowchart TB
+    %% 노드 정의
+    landing["랜딩 페이지<br>(비로그인 상태)"]:::landingPage
+    login["로그인 페이지"]:::authPage
+    signup["회원가입 페이지"]:::authPage
+    home["홈 화면<br>(콘텐츠 목록)"]:::mainPage
+    search["검색 결과 화면"]:::contentPage
+    genre["장르별 필터링 화면"]:::contentPage
+    details["콘텐츠 상세 페이지"]:::contentPage
+    player["비디오 플레이어"]:::playerPage
+    mypage["마이페이지"]:::userPage
+    wishlist["찜 목록"]:::userPage
+    account["계정 정보 관리"]:::userPage
+    
+    %% 연결선 정의
+    landing --> login
+    landing --> signup
+    landing --> home
+    
+    login --> home
+    signup --> login
+    
+    home --> search
+    home --> genre
+    home --> details
+    home --> mypage
+    
+    search --> details
+    genre --> details
+    
+    details --> player
+    details -- "찜하기/취소" --> details
+    
+    mypage --> wishlist
+    mypage --> account
+    
+    wishlist --> details
+    
+    %% 모든 페이지에서 홈으로 돌아갈 수 있음
+    search --> home
+    genre --> home
+    details --> home
+    player --> home
+    wishlist --> home
+    account --> home
+    
+    %% 스타일 정의
+    classDef landingPage fill:#3E2723,color:#FFF,stroke:#8D6E63,stroke-width:2px
+    classDef authPage fill:#0D47A1,color:#FFF,stroke:#1976D2,stroke-width:2px
+    classDef mainPage fill:#B71C1C,color:#FFF,stroke:#E53935,stroke-width:2px
+    classDef contentPage fill:#2E7D32,color:#FFF,stroke:#4CAF50,stroke-width:2px
+    classDef playerPage fill:#4A148C,color:#FFF,stroke:#7B1FA2,stroke-width:2px
+    classDef userPage fill:#E65100,color:#FFF,stroke:#FF9800,stroke-width:2px
+```
+
+#### 4번 모델
+
+```mermaid
+flowchart TD
+    A["**시작 화면**<br><br>로고 & 시작 버튼"] --> B{"/login"}
+    A --> C{"/register"}
+    B --> D["**로그인 페이지**<br><br>- 이메일/비밀번호 입력<br>- 로그인 버튼<br>- 회원가입 링크"]
+    C --> E["**회원가입 페이지**<br><br>- 이름, 이메일, 비밀번호 입력<br>- 가입 완료 버튼"]
+    D --> F{"/home"}
+    E --> F
+    F --> G["**홈 화면**<br><br>- 검색바<br>- 콘텐츠 그리드<br>- 네비게이션 바"]
+    G --> H{"/search"}
+    G --> I{"/content/:id"}
+    G --> J{"/mypage"}
+    H --> K["**검색 결과 화면**<br><br>- 검색어 입력 필드<br>- 필터링 옵션<br>- 결과 리스트"]
+    K --> I
+    I --> L["**콘텐츠 재생 화면**<br><br>- 비디오 플레이어<br>- 제목/설명<br>- 찜 버튼<br>- 뒤로 가기"]
+    J --> M["**마이페이지**<br><br>- 사용자 정보<br>- 찜 목록 그리드<br>- 로그아웃 버튼"]
+    
+    %% 스타일 정의
+    classDef start fill:#4CAF50,stroke:#388E3C,color:white,stroke-width:2px;
+    classDef auth fill:#FF9800,stroke:#F57C00,color:white;
+    classDef main fill:#2196F3,stroke:#0B7DDA,color:white;
+    classDef content fill:#9C27B0,stroke:#7B1FA2,color:white;
+    classDef user fill:#607D8B,stroke:#455A64,color:white;
+    
+    %% 노드 스타일 적용
+    class A start
+    class B,C,D,E auth
+    class F,G,H,K main
+    class I,L content
+    class J,M user
+    
+    %% 화살표 스타일
+    linkStyle default stroke:#666,stroke-width:2px,fill:none;
+```
+
+#### 5번 모델
+
+```mermaid
+graph TD
+    A["Home Screen<br>콘텐츠 썸네일 그리드, 검색바, 장르 필터"] -->|콘텐츠 클릭| B["Content Playback<br>비디오 플레이어, 콘텐츠 정보(제목, 설명)"]
+    A -->|검색/필터링| A
+    A -->|로그인 버튼| C["Login Screen<br>이메일, 비밀번호 입력"]
+    C -->|회원가입 링크| D["Sign-up Screen<br>이메일, 비밀번호 입력"]
+    D -->|가입 완료| C
+    C -->|로그인 성공| A
+    A -->|마이페이지 버튼| E["My Page<br>찜 목록, 계정 정보"]
+    B -->|찜 버튼| E
+    E -->|찜 목록 클릭| B
+    B -->|뒤로가기| A
+    E -->|로그아웃| C
+
+    %% Styling for nodes
+    classDef home fill:#1f1f1f,stroke:#ffffff,stroke-width:2px,color:#ffffff;
+    classDef playback fill:#2c2c2c,stroke:#ffffff,stroke-width:2px,color:#ffffff;
+    classDef login fill:#3c3c3c,stroke:#ffffff,stroke-width:2px,color:#ffffff;
+    classDef signup fill:#4a4a4a,stroke:#ffffff,stroke-width:2px,color:#ffffff;
+    classDef mypage fill:#5a5a5a,stroke:#ffffff,stroke-width:2px,color:#ffffff;
+
+    %% Apply styles to nodes
+    class A home;
+    class B playback;
+    class C login;
+    class D signup;
+    class E mypage;
+```
+
+
+### 요청사항
+
+다음 [문서 목록]들 중 [기획 내용]에 가장 맞도록 설계를 한 모델을 선정해주세요.

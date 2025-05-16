@@ -1,0 +1,2762 @@
+{
+  "1": {
+    "permutation": [
+      "grok3.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "deepseek-v3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "deepseek-v3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "2": {
+    "permutation": [
+      "grok3.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "deepseek-v3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "deepseek-v3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "3": {
+    "permutation": [
+      "grok3.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "deepseek-v3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "deepseek-v3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "4": {
+    "permutation": [
+      "grok3.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "deepseek-v3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "deepseek-v3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "5": {
+    "permutation": [
+      "grok3.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "deepseek-v3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "deepseek-v3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "6": {
+    "permutation": [
+      "grok3.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "deepseek-v3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "deepseek-v3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "7": {
+    "permutation": [
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "deepseek-v3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "deepseek-v3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "8": {
+    "permutation": [
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "deepseek-v3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "deepseek-v3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "9": {
+    "permutation": [
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "deepseek-v3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "deepseek-v3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "10": {
+    "permutation": [
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "11": {
+    "permutation": [
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "deepseek-v3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "deepseek-v3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "12": {
+    "permutation": [
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "13": {
+    "permutation": [
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "deepseek-v3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "deepseek-v3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "14": {
+    "permutation": [
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "deepseek-v3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "deepseek-v3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "15": {
+    "permutation": [
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "deepseek-v3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "deepseek-v3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "16": {
+    "permutation": [
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "17": {
+    "permutation": [
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "deepseek-v3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "deepseek-v3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "18": {
+    "permutation": [
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "19": {
+    "permutation": [
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "deepseek-v3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "deepseek-v3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "20": {
+    "permutation": [
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "deepseek-v3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "deepseek-v3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "21": {
+    "permutation": [
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "deepseek-v3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "deepseek-v3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "22": {
+    "permutation": [
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "23": {
+    "permutation": [
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "deepseek-v3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "deepseek-v3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "24": {
+    "permutation": [
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "grok3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "grok3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "25": {
+    "permutation": [
+      "deepseek-v3.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "grok3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "grok3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "26": {
+    "permutation": [
+      "deepseek-v3.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "grok3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "grok3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "27": {
+    "permutation": [
+      "deepseek-v3.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "grok3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "grok3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "28": {
+    "permutation": [
+      "deepseek-v3.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "grok3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "grok3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "29": {
+    "permutation": [
+      "deepseek-v3.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "grok3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "grok3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "30": {
+    "permutation": [
+      "deepseek-v3.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "grok3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "grok3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "31": {
+    "permutation": [
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "grok3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "grok3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "32": {
+    "permutation": [
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "grok3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "grok3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "33": {
+    "permutation": [
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "grok3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "grok3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "34": {
+    "permutation": [
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "35": {
+    "permutation": [
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "grok3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "grok3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "36": {
+    "permutation": [
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "37": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "grok3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "grok3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "38": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "grok3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "grok3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "39": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "grok3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "grok3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "40": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "41": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "grok3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "grok3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "42": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "43": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "grok3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "grok3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "44": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "grok3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "grok3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "45": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "grok3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "grok3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "46": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "47": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "grok3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "grok3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "48": {
+    "permutation": [
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "deepseek-v3.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "deepseek-v3.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "49": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "grok3.md",
+      "3": "deepseek-v3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "grok3.md": 2,
+      "deepseek-v3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "50": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "grok3.md",
+      "3": "deepseek-v3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "grok3.md": 2,
+      "deepseek-v3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "51": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "grok3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "deepseek-v3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "grok3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "deepseek-v3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "52": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "grok3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "grok3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "53": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "grok3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "deepseek-v3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "grok3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "deepseek-v3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "54": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "grok3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "grok3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "55": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "deepseek-v3.md",
+      "3": "grok3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "deepseek-v3.md": 2,
+      "grok3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "56": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "deepseek-v3.md",
+      "3": "grok3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "deepseek-v3.md": 2,
+      "grok3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "57": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "deepseek-v3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "grok3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "deepseek-v3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "grok3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "58": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "deepseek-v3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "deepseek-v3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "59": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "deepseek-v3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "grok3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "deepseek-v3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "grok3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "60": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "deepseek-v3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "deepseek-v3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "61": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "grok3.md",
+      "4": "deepseek-v3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "grok3.md": 3,
+      "deepseek-v3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "62": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "grok3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "grok3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "63": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "deepseek-v3.md",
+      "4": "grok3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "deepseek-v3.md": 3,
+      "grok3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "64": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "deepseek-v3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "deepseek-v3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "65": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "grok3.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "grok3.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "66": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "deepseek-v3.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "deepseek-v3.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "67": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "grok3.md",
+      "4": "deepseek-v3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "grok3.md": 3,
+      "deepseek-v3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "68": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "grok3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "grok3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "69": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "deepseek-v3.md",
+      "4": "grok3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "deepseek-v3.md": 3,
+      "grok3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "70": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "deepseek-v3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "deepseek-v3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "71": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "grok3.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "grok3.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "72": {
+    "permutation": [
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "claude-3-7-sonnet.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "deepseek-v3.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "claude-3-7-sonnet.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "deepseek-v3.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "73": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "grok3.md",
+      "3": "deepseek-v3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "grok3.md": 2,
+      "deepseek-v3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "74": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "grok3.md",
+      "3": "deepseek-v3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "grok3.md": 2,
+      "deepseek-v3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "75": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "grok3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "deepseek-v3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "grok3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "deepseek-v3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "76": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "grok3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "grok3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "77": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "grok3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "deepseek-v3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "grok3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "deepseek-v3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "78": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "grok3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "grok3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "79": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "deepseek-v3.md",
+      "3": "grok3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "deepseek-v3.md": 2,
+      "grok3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "80": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "deepseek-v3.md",
+      "3": "grok3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "deepseek-v3.md": 2,
+      "grok3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "81": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "deepseek-v3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "grok3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "deepseek-v3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "grok3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "82": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "deepseek-v3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "deepseek-v3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "83": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "deepseek-v3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "grok3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "deepseek-v3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "grok3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "84": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "deepseek-v3.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "deepseek-v3.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "85": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "grok3.md",
+      "4": "deepseek-v3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "grok3.md": 3,
+      "deepseek-v3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "86": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "grok3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "grok3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "87": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "gpt-o1-pro-mode.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "deepseek-v3.md",
+      "4": "grok3.md",
+      "5": "gpt-o1-pro-mode.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "deepseek-v3.md": 3,
+      "grok3.md": 4,
+      "gpt-o1-pro-mode.md": 5
+    }
+  },
+  "88": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "deepseek-v3.md",
+      "4": "gpt-o1-pro-mode.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "deepseek-v3.md": 3,
+      "gpt-o1-pro-mode.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "89": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "grok3.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "grok3.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "90": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gpt-o1-pro-mode.md",
+      "4": "deepseek-v3.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gpt-o1-pro-mode.md": 3,
+      "deepseek-v3.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "91": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "grok3.md",
+      "4": "deepseek-v3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "grok3.md": 3,
+      "deepseek-v3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "92": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "grok3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "grok3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "93": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "deepseek-v3.md",
+      "4": "grok3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "deepseek-v3.md": 3,
+      "grok3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "94": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "deepseek-v3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "deepseek-v3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "95": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "grok3.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "grok3.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "96": {
+    "permutation": [
+      "gemini-2-5-pro.md",
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gemini-2-5-pro.md",
+      "2": "gpt-o1-pro-mode.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "deepseek-v3.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gemini-2-5-pro.md": 1,
+      "gpt-o1-pro-mode.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "deepseek-v3.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "97": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "grok3.md",
+      "3": "deepseek-v3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "grok3.md": 2,
+      "deepseek-v3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "98": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "grok3.md",
+      "3": "deepseek-v3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "grok3.md": 2,
+      "deepseek-v3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "99": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "grok3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "deepseek-v3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "grok3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "deepseek-v3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "100": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "grok3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "grok3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "101": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "grok3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "deepseek-v3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "grok3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "deepseek-v3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "102": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "grok3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "grok3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "103": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "deepseek-v3.md",
+      "3": "grok3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "deepseek-v3.md": 2,
+      "grok3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "104": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "deepseek-v3.md",
+      "3": "grok3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "deepseek-v3.md": 2,
+      "grok3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "105": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "deepseek-v3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "grok3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "deepseek-v3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "grok3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "106": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "deepseek-v3.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "deepseek-v3.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "107": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "deepseek-v3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "grok3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "deepseek-v3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "grok3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "108": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "deepseek-v3.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "deepseek-v3.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "109": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "grok3.md",
+      "4": "deepseek-v3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "grok3.md": 3,
+      "deepseek-v3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "110": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "grok3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "grok3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "111": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "gemini-2-5-pro.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "deepseek-v3.md",
+      "4": "grok3.md",
+      "5": "gemini-2-5-pro.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "deepseek-v3.md": 3,
+      "grok3.md": 4,
+      "gemini-2-5-pro.md": 5
+    }
+  },
+  "112": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "gemini-2-5-pro.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "deepseek-v3.md",
+      "4": "gemini-2-5-pro.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "deepseek-v3.md": 3,
+      "gemini-2-5-pro.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "113": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "grok3.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "grok3.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "114": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "claude-3-7-sonnet.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "claude-3-7-sonnet.md",
+      "3": "gemini-2-5-pro.md",
+      "4": "deepseek-v3.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "claude-3-7-sonnet.md": 2,
+      "gemini-2-5-pro.md": 3,
+      "deepseek-v3.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "115": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "grok3.md",
+      "4": "deepseek-v3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "grok3.md": 3,
+      "deepseek-v3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "116": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "grok3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "grok3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "117": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "grok3.md",
+      "claude-3-7-sonnet.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "deepseek-v3.md",
+      "4": "grok3.md",
+      "5": "claude-3-7-sonnet.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "deepseek-v3.md": 3,
+      "grok3.md": 4,
+      "claude-3-7-sonnet.md": 5
+    }
+  },
+  "118": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "deepseek-v3.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "deepseek-v3.md",
+      "4": "claude-3-7-sonnet.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "deepseek-v3.md": 3,
+      "claude-3-7-sonnet.md": 4,
+      "grok3.md": 5
+    }
+  },
+  "119": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "grok3.md",
+      "deepseek-v3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "grok3.md",
+      "5": "deepseek-v3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "grok3.md": 4,
+      "deepseek-v3.md": 5
+    }
+  },
+  "120": {
+    "permutation": [
+      "gpt-o1-pro-mode.md",
+      "gemini-2-5-pro.md",
+      "claude-3-7-sonnet.md",
+      "deepseek-v3.md",
+      "grok3.md"
+    ],
+    "number_to_original": {
+      "1": "gpt-o1-pro-mode.md",
+      "2": "gemini-2-5-pro.md",
+      "3": "claude-3-7-sonnet.md",
+      "4": "deepseek-v3.md",
+      "5": "grok3.md"
+    },
+    "original_to_number": {
+      "gpt-o1-pro-mode.md": 1,
+      "gemini-2-5-pro.md": 2,
+      "claude-3-7-sonnet.md": 3,
+      "deepseek-v3.md": 4,
+      "grok3.md": 5
+    }
+  }
+}
